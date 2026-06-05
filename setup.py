@@ -8,6 +8,6 @@ setup(name="TifliGPT.py",
       description="TifliGPT is a simple implementation of pidiatic chatbot in Python.",
       author="Aya Dahmani",
       author_email="aya.dahmani@adiot.es",
-      url="http://www.example.com/tifligpt",
+      url="http://www.tifligpt.com/review",
       license="BSD style"
       )
